@@ -1,0 +1,205 @@
+---
+title: "Virion morphology summaries from ICTV"
+author: "Jeffrey Blanchard"
+date: "7/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Text and Images from [ICTV's Online Report](https://talk.ictvonline.org/ictv-reports/ictv_online_report/)
+
+
+
+### [Ascoviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/ascoviridae)
+
+**Morphology**  Virions of ascoviruses are either bacilliform, ovoidal or allantoid in shape, and depending on the species, have complex symmetry, and are large, measuring approximately 130 nm in diameter by 200-400 nm in length. The virion consists of an inner particle surrounded by an outer envelope. 
+
+![Ascoviridae Image - Morphology of ascovirus virions. A. Schematic illustration of the structure of a typical ascovirus virion. The virion consists of an inner particle and an outer envelope. The inner particle is complex and contains a DNA/protein core surrounded by an apparent unit membrane, the external surface of which bears a layer of distinctive protein subunits. B, C. Respectively, ultrathin longitudinal- and cross-sections through typical ascovirus virions (SfAV-1a). The dense inner layer corresponds with the distinctive layer of subunits shown in A. D to F. Negatively stained preparations of virions from three different ascovirus species: D, Spodoptera frugiperda ascovirus 1a (SfAV-1a); E, Trichoplusia ni ascovirus 2a (TnAV-2a), and F, Heliothis virescens ascovirus 3a (HvAV-3a). The reticulate appearance of the virions is thought to be due to the superimposition of top and bottom layers of the inner particle and the outer envelope. Bar = 50 nm.](https://talk.ictvonline.org/cfs-file/__key/communityserver-wikis-components-files/00-00-00-00-59/ODD.Asc.Fig1.v1.png)
+
+### [Asfarviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/asfarviridae)
+
+**Morphology** African swine fever virus (ASFV) virions consist of a nucleoprotein core structure, 70–100 nm in diameter, surrounded by an internal lipid layer and an icosahedral capsid, 170–190 nm in diameter, which in turn is eventually surrounded by an external lipid-containing envelope. 
+
+![Asfarviridae Image - (a) Diagram of extracellular African swine fever virus virions showing nucleoid, inner core shell, internal membrane, capsid and outer envelope. (b) EM image of extracellular virions. Black arrow shows the outer envelope, white arrow shows the capsid. Bar = 200 nm. The preparation method was standard chemical fixation for EM. (c) EM image of intracellular virions. IM=immature virion, M=mature virion. Black arrow shows capsid protein, white arrow shows virus membrane. Bar=200 nm. Preparation method was high pressure freezing followed by freeze substitution. (d) EM image of intracellular virions. Black arrow shows capsid protein, white arrow shows virus membrane. Bar=200 nm. Preparation method was thawed cryo-sections stained with uranyl acetate.](https://talk.ictvonline.org/resized-image/__size/1280x960/__key/communityserver-wikis-components-files/00-00-00-01-01/ODD.Asf.Fig1v2.png)
+
+### [Iridoviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/iridoviridae)
+
+**Morphology** Virions consist, of a central DNA/protein core surrounded in turn by an internal limiting membrane, a viral capsid, and, in the case of those particles that bud from the plasma membrane, an outer viral envelope. Viral capsids display icosahedral symmetry (Figure 2A.Iridoviridae) and are usually 120–200 nm in diameter, but may be up to 350 nm (e.g. genus Lymphocystivirus). 
+
+![Iridoviridae image - Schematic diagram of a cross-section of an iridovirus particle, showing capsomers, the internal lipid bilayer containing transmembrane proteins and the filamentous nucleoprotein core ](https://talk.ictvonline.org/cfs-file/__key/communityserver-wikis-components-files/00-00-00-00-76/ODD.Irido.Fig1.v2.png)
+
+![Iridoviridae image - A: Outer shell of invertebrate iridescent virus 2 (IIV2). Shown are trisymmetrons (orange) comprising the 20 icosahedral faces and pentrasymmetrons (red) located at the 12 vertices, and disymmetrons (blue) located at the edges of the icosahedral faces (Adapted from (Wrigley 1969) with permission). B: Cryo-transmission electron micrograph of IIV6 displaying a fringe of hair-like fibers surrounding the viral particle](https://talk.ictvonline.org/cfs-file/__key/communityserver-wikis-components-files/00-00-00-00-76/ODD.Irido.Fig2.v2.png)
+
+### [Ampullaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/ampullaviridae)
+
+***Morphology***  The virion of Acidianus bottle shaped virus (ABV) is enveloped, resembles in its shape a bottle and has an overall length of about 230 nm and a width varying from about 75 nm, at the broad end, to 4 nm, at the pointed end (Figure 1.Ampullaviridae). The broad end of the virion exhibits 20 (±2) thin rigid filaments (20 nm long and 3 nm in width), which appear to be interconnected at their bases and regularly distributed around, and inserted into, a disc or ring. The 9 nm thick envelope encases a cone-shaped core formed by a torroidally supercoiled nucleoprotein filament, 7 nm in width. The bottle-shaped morphology is unprecedented among viruses of bacteria and eukaryotes  and represents a group of archaea-specific virion morphotypes
+
+![Ampullaviridae - Negative-contrast electron micrographs of native (left) and partially degraded (right) virions of an isolate of Acidianus bottle-shaped virus. Schematic representation of the virion (bottom right). The scale bars represent 100 nm.](https://talk.ictvonline.org/cfs-file/__key/communityserver-wikis-components-files/00-00-00-00-98/ODD.Amp.Fig1.png)
+
+
+###  [Baculoviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/baculoviridae)
+
+***Morphology***  One or two virion phenotypes are involved in baculovirus infections. Infection is initiated in the gut epithelium by virions contained within a crystalline protein occlusion body (OB) which may be polyhedral in shape and containing many virions (members of the genera Alphabaculovirus, Gammabaculovirus and Deltabaculovirus); or ovocylindrical and containing only one, or rarely two or more, virions (members of the genus Betabaculovirus). Virions within occlusions, referred to as occlusion-derived virus (ODV), consist of one or more rod-shaped nucleocapsids that have a distinct structural polarity and are enclosed within an envelope (Figure 1.Baculoviridae). For ODV, nucleocapsid envelopment occurs within the nucleus (members of the genus Alphabaculovirus) or in the nuclear-cytoplasmic milieu after loss of the nuclear membrane (members of the genus Betabaculovirus). Nucleocapsids average 30–60 nm in diameter and 250–300 nm in length. 
+
+![Baculovirus virions and nucleocapsids. (Top) The two baculovirus virion phenotypes are illustrated as diagrams with shared and phenotype-specific components.  (Bottom) Transmission electron micrographs of an occlusion-derived virion of Autographa californica multiple nucleopolyhedrovirus (bottom left), a negatively-stained nucleocapsid of Autographa californica multiple nucleopolyhedrovirus (center), and a budded virion of Lymantria dispar multiple nucleopolyhedrovirus (bottom right). ](https://talk.ictvonline.org/resized-image/__size/1280x960/__key/communityserver-wikis-components-files/00-00-00-01-10/ODD.Baculo.Fig1.v3.png)
+
+### [Bicaudaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/bicaudaviridae)
+
+***Morphology*** Virions of Acidianus two-tailed virus (ATV) are released from host cells as spindle-shaped particles, about 120×80 nm, which subsequently develop two long tails, one at each of the two pointed ends 
+
+![Electron micrographs of different forms of Acidianus two-tailed virus. a, Virions in the infected cell culture at the late stage of tail development. b, extrusion of virions from an Acidianus convivator cell; c, virions in growing culture of infected A. convivator, two days post-infection; d, as for c, but purified by CsCl gradient centrifugation; e-h, as for d, but after incubation at 75°C for 2, 5, 6, and 7 days, respectively. Samples were negatively-stained with 3% uranyl acetate, except for b, which was platinum- shadowed. Bars: a-c, 0.5 µm; d-h, 0.1 µm](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-08/ODD.Bic.Fig1.jpg)
+
+### [Clavaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/clavaviridae)
+
+***Morphology*** Virions of Aeropyrum pernix bacilliform virus 1 (APBV1) are non-enveloped, rigid rod-shaped particles, about 143 x 16 nm, terminating with cap structures.
+
+![Clavaviridae - Electron micrograph of virions of Aeropyrum pernix bacilliform virus 1 (APBV1) and three-dimensional reconstruction of the virion structure. (a) Virions imbedded in vitreous ice (b) 3D model of the virion shown from the side; scale bars, 10 nm.](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-36/ODD.Clava.Figure-1.v2.png)
+
+
+### [Corticoviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/corticoviridae)
+
+***Morphology*** Icosahedral virions consist of an internal membrane and an outer protein capsid that has a diameter of 57 nm between facets 
+
+![Corticoviridae - (A) Electron micrograph of negatively stained Pseudoalteromonas virus PM2 particles. The bar represents 50 nm. (B) An atomic model based upon X-ray crystallographic analysis of a virion of Pseudoalteromonas virus PM2 at 7 Å resolution, viewed along the two-fold axis of symmetry (courtesy of N.G.A. Abrescia) and (C) a schematic presentation of the virion. Capsid diameter is approximately 57 nm (from facet to facet)](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-00-74/ODD.Cor.Fig1.v1.png)
+
+
+### [Globuloviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/globuloviridae)
+
+***Morphology***  Virions are spherical, 70–100 nm in diameter, with spherical protrusions that are about 15 nm in diameter (Figure 1.Globuloviridae). Virions carry a lipid-containing envelope that encases a superhelical core, consisting of linear dsDNA and nucleoproteins
+
+![Negative-contrast electron micrographs of virions of Pyrobaculum spherical virus. (Left) Intact virions; arrows indicate spherical protrusions. (Right) Partially disrupted virions extruding disordered nucleoprotein core. The bars represent 100 nm.](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-15/ODD.Globulo.Fig1.v2.png)
+
+
+### [Guttaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/guttaviridae)
+
+***Morphology*** The virions of members of the Guttaviridae have an ovoid shape, measuring 55 x 75 nm (for Aeropyrum pernix ovoid virus 1 (APOV1), Betaguttavirus) to 80 x 130 nm (for Sulfolobus newzealandicus droplet-shaped virus (SNDV), Alphaguttavirus), when analysed by cryo-electron microscopy (Arnold et al., 2000, Mochizuki et al., 2011). The virion surface is covered by globular subunits, which are ~3.5 nm in width. In negative-contrast electron micrographs, the virions are slightly pleomorphic, most displaying a droplet-like shape. 
+
+![Guttaviridae. Virions of Aeropyrum pernix ovoid virus 1 (A and B) and Sulfolobus newzealandicus droplet-shaped virus (C). Virions were negatively stained (A, C) and embedded in ice (B). Scale bars, 100 nm. ](https://talk.ictvonline.org/resized-image/__size/1600x960/__key/communityserver-wikis-components-files/00-00-00-00-99/ODD.Gutta.Fig1.v1.png)
+
+
+### [Herelleviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/herelleviridae)
+
+***Morphology*** Virions have isometric, icosahedral heads of 85–100 nm in diameter. The heads show clear capsomers, i.e. the subunits of the capsid are arranged in pentons and hexons that are assembled into the isometric, icosahedral capsid. The uncontracted tails are 130–185 nm in length. The tails have a baseplate of approximately 60 nm and a small collar 
+
+![Herelleviridae. Transmission electron micrograph of Bacillus phage phiAGATE, a member of the family Herelleviridae (subfamily Bastillevirinae)](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-44/ODD.Herelle.Fig1.v1.png)
+
+
+### [Hytrosaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/hytrosaviridae)
+
+***Morphology*** Virions are 50–80 nm in diameter, non-occluded, non-icosahedral rod-shaped particles (500–1000 nm in length) and contain a bilayer lipid envelope 
+
+![Hytrosaviridae - Micrographs showing the structural features of Glossina pallidipes salivary gland hypertrophy virus – Uganda. (A) Transmission electron micrographs showing the main structural features of a virus particle. Inset in Panel A shows a cross-section indicating the nucleocapsid core, tegument, envelope and coating layer; (B) Negative-staining of a virion showing the helical organization of the coating protein. (C and D) Cryo-EM tomograms of the central section of virions exhibiting the same polarity with round (left ) and conical (right >) extremities. The four core parts of the virion including the spikes forming the coating layer, the envelope, the tegument and the nucleocapsid are labelled in light purple, green, turquoise and salmon, respectively. All scale bars in panels B–D are 100 nm](https://talk.ictvonline.org/resized-image/__size/1280x960/__key/communityserver-wikis-components-files/00-00-00-01-38/ODD.Hytro.Fig_5F00_1.v4.png)
+
+
+### [Nudiviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/nudiviridae)
+
+***Morphology*** Virions consist of bacilliform nucleocapsids surrounded by an envelope.  The virions can be relatively compact (100 nm × 200 nm; (Payne et al., 1977)) or elongated (81 × 415 nm) (Hamm et al., 1996).  Tail-like appendages extending from the nucleocapsid are sometimes observ
+
+![Alphanudivirus.  (A) Virions of Oryctes rhinoceros nudivirus (OrNV) filling the cytoplasm in infected cells of tissue from O. rhinoceros injected with OrNV.  (B) Negatively-stained virions of OrNV, with one nucleocapsid (c) emerging from its associated envelope (arrow).  (C) Nucleocapsids (c) of OrNV with tail-like appendages visible (arrows).  Scale bars: (A) 2 µm; (B) and (C) 0.2 µm.  ](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-42/ODD.Nudi.Fig1_2800_Alpha_2900_.v1.png)
+![Betanudivirus.  (A) A cluster of virions in the bursa copulatrix of an adult female H. zea moth infected with Helicoverpa zea nudivirus 2 (HzNV-2).  Virions appear to be embedded in a granular matrix material, resulting in an occlusion body with an atypical appearance.  (B) HzNV-2 virion derived from an atypical occlusion body treated with sodium carbonate.  Scale bars: (A) 1 µm; (B) 0.25 µm.  ](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-42/ODD.Nudi.Fig1_2800_Beta_2900_.v1.png)
+
+
+
+### [Nimaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/nimaviridae)
+
+**Morphology** Virions of white spot syndrome virus (WSSV) are enveloped, ellipsoid-to-bacilliform particles of 70–170 nm in width and 210–420 nm in length (Table 1.Nimaviridae  and Figure 1.Nimaviridae). A thread or flagellum-like projection (or extension) is present at one end of most virions (Chou et al., 1995, Durand et al., 1997, Lu et al., 1997). The virion consists of an inner, rod-shaped nucleocapsid with a tight-fitting capsid layer, an intermediate tegument layer and an outer lipid-containing trilaminar envelope
+
+![Nimaviridae images - (Top) Morphology of virions of white spot syndrome virus (WSSV). (Left) Schematic illustration of the structure of a typical whispovirus virion using a cutaway section to show the locations of major virion proteins. (Top center and right) Negative-contrast electron micrographs of WSSV virions (center, courtesy of Marielle van Hulten) and nucleocapsids (right, courtesy of Don Lightner) from hemolymph of infected Penaeus monodon. The bars represent 100 nm. (Bottom left) Thin section of WSSV-infected stomach epithelium showing the parallel arrangement of virions in the nucleoplasm (the bar represents 1 µm) and (bottom right) a cross-section of virions (the bar represents 100 nm) ](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-28/ODD.Nima.Fig1.v4.png)
+
+
+### [Papillomaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/papillomaviridae)
+
+***Morphology*** Papillomavirus virions are non-enveloped. The viral capsid is ~600 Å in diameter and consists of 360 copies (arranged as 72 pentamers) of the major capsid protein
+
+![Papillomaviridae. (Left) Atomic rendering of a papillomavirus capsid. Derived from an image reconstruction from Cryo-electron microscopy of human papillomavirus type 16 at 4.5 Å resolution and colored according to the radial coloring scheme shown (PDB: 5KEP; (Guan et al., 2017)). (Center) Schematic diagram representing the 72 capsomers in a T=7 arrangement of a papillomavirus capsid. The icosahedral structure is composed solely of pentameric capsomeres for a total of 360 capsid proteins. (Right) Negative-contrast electron micrograph of human papillomavirus 1 (HPV1) virions. The bar represents 100 nm.](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-09/pastedimage1528466275159v1.png)
+
+
+### [Plasmaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/plasmaviridae)
+
+***Morphology*** Virions are quasi-spherical, slightly pleomorphic, enveloped and about 80 nm (range 50–125 nm) in diameter (Figure 1.Plasmaviridae). At least three distinct virion forms are produced during infection (~75% of virions are 70–80 nm, ~20% are 80–90 nm, and ~5% are 110–120 nm). 
+
+![Plasmaviridae. Electron micrograph of Acholeplasma virus L2 virions negatively-stained with uranyl acetate. Bar, 100 nm.](https://talk.ictvonline.org/resized-image/__size/1280x960/__key/communityserver-wikis-components-files/00-00-00-01-02/ODD.Plasmaviridae.Fig1.png)
+
+
+### [Polyomaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/polyomaviridae)
+
+***Morphology*** Non-enveloped, 40–45 nm, icosahedral Mature virions measure approximately 40–45 nm in diameter and consist of 88% protein and 12% DNA. 
+
+![Polyomaviridae. Three dimensional structure of an SV40 particle at 3.1 Å resolution obtained using X-ray diffraction (Protein Data Base ID 1SVA, (Stehle et al., 1996)). The pentameric VP1 subunits are tied together by extended C-terminal arms. The diameter of this particle is about 500 Angstroms (Å) or 50 nm.](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-00-79/ODD.Polyoma.Fig1.v2.png)
+
+### [Poxviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/74/poxviridae)
+
+**Morphology** Virions are somewhat pleomorphic, generally brick-shaped (220–450 nm long×140–260 nm wide×140–260 nm thick) with a lipoprotein surface membrane displaying tubular or globular units (10–40 nm). They can also be ovoid (250–300 nm long×160–190 nm diameter) with a surface membrane possessing a regular spiral filament (10–20 nm in diameter) (Figure 1).
+
+![Poxviridae Image - Electron micrographs of negatively stained preparations of: (left) an orthopoxvirus mature virion; (center) a parapoxvirus mature virion and (right) a yatapoxvirus enveloped virion. The bar represents 100 nm](https://talk.ictvonline.org/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-21/f28_2D00_01_2D00_9780123846846.png)
+
+
+### [Tristromaviridae](https://talk.ictvonline.org/ictv-reports/ictv_online_report/dsdna-viruses/w/tristromaviridae)
+
+***Morphology*** Filamentous, flexible  (400 ± 20 nm × 30 ± 3 nm) particle consisting of a nucleoprotein core covered by a matrix protein layer and enveloped with a lipid membrane; bundles of thin filaments are attached to both ends
+
+![Tristromaviridae. Tristromaviridae. (A) Electron micrograph of a virion of negatively-stained Pyrobaculum filamentous virus 1, stained with 2% uranyl acetate. (B) A schematic of the virion organization with the position of 3 major capsid proteins indicated. Scale bar, 100 nm](https://talk.ictvonline.org/resized-image/__size/640x480/__key/communityserver-wikis-components-files/00-00-00-01-24/ODD.Tristroma.Fig1.v1.png)
+
+
+### [Myoviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/70/myoviridae-figures)
+
+***Morphology***
+
+![Simplified genetic map of Enterobacteria phage T4 (T4) showing clustering of genes with related functions, location of essential genes (solid bars) and direction and origin of transcripts (arrows).](https://talk.ictvonline.org/resized-image/__size/550x0/__key/communityserver-wikis-components-files/00-00-00-00-21/f02_2D00_01_2D00_9780123846846.png)
+
+
+### [Podoviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/71/podoviridae-figures)
+
+***Morphology***
+
+![Phage BPP-1 negatively stained with 1% uranyl acetate, and an interpretive diagram](https://talk.ictvonline.org/resized-image/__size/550x0/__key/communityserver-wikis-components-files/00-00-00-00-21/f03_2D00_01_2D00_9780123846846.png)
+
+![Electron micrograph of Pseudomonas phage LUZ24](https://talk.ictvonline.org/resized-image/__size/550x0/__key/communityserver-wikis-components-files/00-00-00-00-21/f03_2D00_03_2D00_9780123846846.png)
+
+
+### [Siphoviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/73/siphoviridae-figures)
+
+***Morphology***
+
+![Enterobacteria phage λ (λ): (left) representative diagram of a phage λ particle; (right) electron micrograph of phage λ particles with negative staining. The bar represents 100 nm.](https://talk.ictvonline.org/resized-image/__size/550x0/__key/communityserver-wikis-components-files/00-00-00-00-21/f04_2D00_01_2D00_9780123846846.png)
+![Electron micrograph of Bacillus phage SPλ particles with negative staining. The bar represents 100 nm.](https://talk.ictvonline.org/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-21/f04_2D00_03_2D00_9780123846846.png)
+
+### [Lipothrixviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/116/lipothrixviridae-figures)
+
+***Morphology***
+
+![Negative contrast electron micrographs of virions of representatives of four genera of the family Lipothrixviridae. (Top, left) Thermoproteus tenax virus 1 from the genus Alphalipothrixvirus; (center; left) Sulfolobus islandicus filamentous virus from the genus Betalipothrixvirus; (top, right) Acidianus filamentous virus 1 from the genus Gammalipothrixvirus; (bottom) Acidianus filamentous virus 2 from the genus Deltalipothrixvirus. The bars represent 100 nm.](https://talk.ictvonline.org/resized-image/__size/550x0/__key/communityserver-wikis-components-files/00-00-00-00-21/f20_2D00_01_2D00_9780123846846.png)
+
+
+### [Mimiviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/117/mimiviridae)
+
+***Morphology*** Mimivirus particles are comprised of an icosahedral core protein capsid with a diameter of 0.5 μm. This large capsid is uniformly covered with a 0.125 μm thick layer of closely packed fibers, forming a roughly spherical object 0.75 μm in diameter
+
+![ Mimivirus particle exhibiting the distinctive stargate structure (transmission electron microscopy).](https://talk.ictvonline.org/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-21/f21_2D00_01_2D00_9780123846846.png)
+
+![The complex internal structure of a mimivirus particle (transmission electron microscopy).](https://talk.ictvonline.org/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-21/f21_2D00_02_2D00_9780123846846.png)
+
+
+### [Phycodnaviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/123/phycodnaviridae)
+
+***Morphology*** Originally, all phycodnavirus virions were assumed to be large icosahedral structures (120–220 nm in diameter) with a multilaminate shell surrounding an electron dense core and lacking an external membrane. However, recent experiments indicate that not all virus structures are identical.
+
+![(A) Fivefold averaged cryo-electron micrographs of Paramecium bursaria chlorella virus PBCV-1 reveal a long, thin, cylindrical spike structure at one vertex and protrusions (fibers) extending from one unique capsomer per trisymmetron (from Cherrier et al. (2009). Proc. Natl Acad. Sci., U S A, 106, 11085-89; with permission). (B) Putative tail structure (arrowed) can be observed in Emiliania huxleyi virus EhV-86 in the cytoplasm of infected Emiliania huxleyi before release of progeny virions (approx. 3 h p.i.) (adapted from Mackinder et al. (2010). J. Gen. Virol., 90, 2306-2316; with permission). (C) PBCV-1 attached to the cell wall of its host as viewed by the quick-freeze, deep-etch procedure. Note: fibers attach the virus to the wall (photo courtesy of John Heuser). (D) EhV-86 virion showing the putative internal lipid membrane (arrowed)](https://talk.ictvonline.org/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-21/f24_2D00_01_2D00_9780123846846.jpg)
+
+
+### [Polydnaviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/128/polydnaviridae-figures)
+
+***Morphology*** Virions have a complex construction, consisting of a nucleocapsid and a single or double layer envelope. Virions consist of one or more enveloped nucleocapsids. Polydnaviruses are divided into two genera, Bracovirus and Ichnovirus, which share few morphological features
+
+![ (Left) Sectional diagram and (right) negative contrast electron micrograph of particles of Protapanteles paleacritae bracovirus (PpBV). The bar represents 200 nm.](https://talk.ictvonline.org/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-21/f26_2D00_04_2D00_9780123846846.png)
+
+
+### [Polyomaviridae](https://talk.ictvonline.org/ictv-reports/ictv_9th_report/dsdna-viruses-2011/w/dsdna_viruses/129/polyomaviridae)
+
+***Morphology*** Virions are non-enveloped and approximately 40–45 nm in diameter. 
+
+![Electron micrographs of: (left) brain tissue from a progressive multifocal leukoencephalopathy (PML) patient showing the assembly of JC polyomavirus (JCPyV) particles in the nucleus of an infected oligodendrocyte; and (right) composite of virus-like particles (VLP) self-assembled from recombinant Vp1 of BK polyomavirus (BKPyV) (rBKVp1), purified by CsCl ultracentrifugation from supernatants of Sf9 insect cell cultures infected with recombinant BKVp1-baculovirus. The particles were negatively stained with 2% phosphotungstic acid. The composite includes an insert showing an enlargement of a single VLP. Bar=100 nm.](https://talk.ictvonline.org/resized-image/__size/550x0/__key/communityserver-wikis-components-files/00-00-00-00-21/f27_2D00_02_2D00_9780123846846.png)
+
