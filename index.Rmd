@@ -4,7 +4,7 @@ output:
   pdf_document: default
 ---
 
-This is rendering of hmtl files repository  (https://github.com/jeffreyblanchard/OurmMicrobiome/VirionMorphology)  
+This is rendering of hmtl files from the repository  (https://github.com/jeffreyblanchard/OurmMicrobiome/VirionMorphology)  
 
 
 * 1 : [ICTV families](ICTV.html)
